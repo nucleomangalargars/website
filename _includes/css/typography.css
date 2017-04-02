@@ -8,6 +8,19 @@
   background: #B09263;
 }
 
+body { line-height: 1.5; }
+
 /* #headline */
 h1 {}
 h3 { font-size: 32px; }
+.white-headline {
+  text-align: center;
+  background: #211B1B;
+  padding: 15px;
+  margin: 50px 0 0 0;
+  color: #fff;
+}
+h4 {
+  margin: 25px 0 0 0;
+  padding: 0;
+}

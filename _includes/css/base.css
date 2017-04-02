@@ -30,7 +30,10 @@ body {
 }
 /* Helpers */
 .current-year { display: inline-block; }
-
+.content-center {
+  text-align: center;
+  margin: 50px;
+}
 
 /* #Navegation*/
 .header-navegation {
@@ -49,11 +52,15 @@ body {
 }
 
 /* #Content */
+.simple-section {
+  margin: 50px 0;
+}
 .content {
   max-width: 90%;
   margin: 0 auto -150px auto;
   min-height: 100%;
 }
+.content-inside-box-full,
 .content-inside-box {
   padding: 20px;
   margin: 20px auto;
@@ -62,6 +69,7 @@ body {
   border-radius: 10px;
   overflow: hidden;
 }
+.content-inside-box-full { margin: 0 0 50px 0; }
 .content-inside-box-header {
   background: #211B1B;
   color: #fff;

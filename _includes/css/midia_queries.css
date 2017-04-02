@@ -42,10 +42,12 @@
     position: relative;
   }
   .container-flex-content {
+    vertical-align: top;
     display: inline-block;
     width: 59%;
   }
   .container-flex-aside {
+    vertical-align: top;
     display: inline-block;
     width: 40%;
   }
