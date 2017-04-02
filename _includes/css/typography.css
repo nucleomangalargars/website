@@ -9,14 +9,5 @@
 }
 
 /* #headline */
-h2,
-h3,
-h4,
-.title {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-h1 {
-  font-family: 'Playfair Display', serif;
-  font-weight: normal;
-  margin: 10px 0;
-}
+h1 {}
+h3 { font-size: 32px; }

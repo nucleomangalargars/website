@@ -27,8 +27,27 @@
     padding-left: 40px;
     margin: 0 auto 0 130px;
   }
+  .content {
+    max-width: 1024px;
+  }
   .content-inside {
     margin: 100px auto;
+    padding: 20px;
+  }
+  .content-inside-box {
+    margin: 20px;
+  }
+  /* Flexbox */
+  .container-flex {
+    position: relative;
+  }
+  .container-flex-content {
+    display: inline-block;
+    width: 59%;
+  }
+  .container-flex-aside {
+    display: inline-block;
+    width: 40%;
   }
 }
 
