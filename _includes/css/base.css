@@ -16,16 +16,11 @@ a {
 a:hover {
   text-decoration: underline;
 }
-
-.desktop {
-  display: none;
-}
-
+.desktop { display: none; }
 html, body {
   height: 100%;
   margin: 0;
 }
-
 body {
   background: url("/img/bg.jpg");
   background-size: 100%;
@@ -33,6 +28,9 @@ body {
   position: relative;
   width: 100%;
 }
+/* Helpers */
+.current-year { display: inline-block; }
+
 
 /* #Navegation*/
 .header-navegation {
@@ -98,4 +96,7 @@ body {
   color: #D3CFB4;
   height: 150px;
   margin-top: -150px;
+}
+.footer-content {
+  text-align: center;
 }
