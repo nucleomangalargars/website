@@ -12,7 +12,10 @@ body { line-height: 1.5; }
 
 /* #headline */
 h1 {}
-h3 { font-size: 32px; }
+h3 {
+  font-size: 32px;
+  margin: 0; 
+}
 .white-headline {
   text-align: center;
   background: #211B1B;
