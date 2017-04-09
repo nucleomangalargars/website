@@ -71,12 +71,15 @@
   }
 
   /*fotos*/
-  .content-inside-box-full--fotos {
-    flex-direction: row;
-  }
   .content-fotos-item {
-    width: 50%;
-    margin: 10px;
+    min-width: 25%;
+    flex-grow: 1;
+    margin: 20px;
+  }
+  .content-fotos-item--photos {
+    min-width: 15%;
+    flex: 15%;
+    flex-grow: 1;
   }
 }
 

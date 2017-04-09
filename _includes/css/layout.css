@@ -36,8 +36,6 @@ footer {
   padding: 20px;
   margin: 20px auto;
   background: #fff;
-  /*opacity: 0.8;*/
-  border-radius: 10px;
   overflow: hidden;
   position: relative;
 }
@@ -60,20 +58,20 @@ footer {
 /* #Fotos */
 .content-inside-box-full--fotos {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
 }
 .content-fotos-item {
-  width: 100%;
+  min-width: 100%;
   flex-grow: 1;
-  flex-basis: 50%;
+  flex: 2 45%;
   margin: 10px 0 20px 0;
   position: relative;
-  display:inline-block;
+  display: inline-block;
   vertical-align: top;
-  background-size:cover;
-  background-position:50% 50%;
 }
 .content-fotos-item img {
+  background-size: cover;
+  background-position: 50% 50%;
   width: 100%;
   height: 100%;
   /* OLD IE */
@@ -98,9 +96,6 @@ footer {
 .container-landing {
   background: #fff;
   padding: 0 20px 20px 20px;
-  -webkit-border-radius: 10px;
-     -moz-border-radius: 10px;
-          border-radius: 10px;
 }
 .content-landing--news {
   margin-bottom: 60px;
