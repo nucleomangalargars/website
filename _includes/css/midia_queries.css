@@ -35,7 +35,7 @@
     padding: 20px;
   }
   .content-inside-box {
-    margin: 20px;
+    margin: 0 20px;
   }
   /* Flexbox */
   .container-flex {
@@ -49,6 +49,17 @@
   .container-flex-aside {
     vertical-align: top;
     display: inline-block;
+    width: 40%;
+  }
+  .content-inside-box-full {
+    margin: 0 0 50px 0;
+  }
+  .content-inside-box-full--content {
+    padding: 30px 80px;
+    font-size: 18px;
+    vertical-align: top;
+  }
+  .container-flex-content--facebook {
     width: 40%;
   }
 }
