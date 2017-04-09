@@ -51,16 +51,32 @@
     display: inline-block;
     width: 40%;
   }
+  .flex-content  {
+    flex-direction: row;
+   }
+   /*flex end*/
   .content-inside-box-full {
     margin: 0 0 50px 0;
   }
   .content-inside-box-full--content {
-    padding: 30px 80px;
+    padding: 10px 80px;
     font-size: 18px;
     vertical-align: top;
   }
   .container-flex-content--facebook {
     width: 40%;
+  }
+  .content-inside-box-padding-left-right {
+    padding: 0 80px;
+  }
+
+  /*fotos*/
+  .content-inside-box-full--fotos {
+    flex-direction: row;
+  }
+  .content-fotos-item {
+    width: 50%;
+    margin: 10px;
   }
 }
 
