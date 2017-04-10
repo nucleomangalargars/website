@@ -1,14 +1,19 @@
 /* #Forms */
+input[type="submit"],
 a.btn,
 .btn {
+  border: 0;
+  font-size: 1em;
   background: #20AD65;
   color: #fff;
+  cursor: pointer;
   padding: 10px 20px;
   text-decoration: none;
   -webkit-border-radius: 4px;
      -moz-border-radius: 4px;
           border-radius: 4px;
 }
+input[type="submit"]:hover,
 a.btn:hover {
   background: #055A5B;
 }
@@ -16,4 +21,11 @@ label {
   display: block;
   margin-top: 10px;
   font-weight: bold;
+}
+input {
+  width: 100%;
+  border: 2px solid #211B1B;
+  padding: 10px 5px;
+  margin: 10px 0;
+  font-size: 1em;
 }

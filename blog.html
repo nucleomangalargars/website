@@ -5,7 +5,7 @@ layout: page
   <div class="blog-post-content-item blog-post-while">
     {% for post in site.posts %}
       <div class="blog-post-item">
-        <a class="title" href="{{post.url}}">
+        <a class="title" href="{{site.baseurl}}/{{post.url}}">
           <h2 class="blog-post-title-small">
             {{post.title}} - <time class="blog-post-date">{{ post.date | date_to_string | replace:"Jan","Jan" | replace:"Feb","Fev" | replace:"Mar","Mar" | replace:"Apr","Abr" | replace:"May","Mai" | replace:"Jun","Jun" | replace:"Jul","Jul" | replace:"Aug","Ago" | replace:"Sep","Set" | replace:"Oct","Out" | replace:"Nov","Nov" | replace:"Dec","Dez"}}</time>
           </h2>
@@ -13,7 +13,7 @@ layout: page
         <p>
           {{post.excerpt}}
           {% if post.excerpt != post.content %}
-            <a href="{{ post.url }}">Leia Mais</a>
+            <a href="{{site.baseurl}}/{{ post.url }}">Leia Mais</a>
           {% endif %}
         </p>
       </div>
@@ -34,7 +34,7 @@ layout: page
       {% endunless %}
         <p>
           <time>{{ post.date | date:"%d %b" | replace:"Jan","Jan" | replace:"Feb","Fev" | replace:"Mar","Mar" | replace:"Apr","Abr" | replace:"May","Mai" | replace:"Jun","Jun" | replace:"Jul","Jul" | replace:"Aug","Ago" | replace:"Sep","Set" | replace:"Oct","Out" | replace:"Nov","Nov" | replace:"Dec","Dez"}}</time>
-          <a href="{{ post.url }}">
+          <a href="{{site.baseurl}}/{{ post.url }}">
             {{ post.title }}
           </a>
         </p>

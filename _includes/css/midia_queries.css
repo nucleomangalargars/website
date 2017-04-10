@@ -9,7 +9,7 @@
     position: relative;
   }
   .logo {
-    background: url("/img/logo.png") no-repeat;
+    background: url("{{site.baseurl}}/img/logo.png") no-repeat;
     background-size: 100%;
     display: inline-block;
     width: 150px;
