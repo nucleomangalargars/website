@@ -7,5 +7,6 @@
 {% include css/base.css %}
 {% include css/typography.css %}
 {% include css/form.css %}
+{% include css/blog.css %}
 {% include css/midia_queries.css %}
 {% include css/lightbox.css %}

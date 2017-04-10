@@ -81,6 +81,21 @@
     flex: 15%;
     flex-grow: 1;
   }
+
+  /* #blog*/
+  .blog-container {
+    background: #fff;
+    padding: 40px 80px;
+  }
+  .blog-post-while {
+    width: 60%;
+    margin-right: 30px;
+  }
+  .blog-post-aside {
+    width: 34%;
+    border-left: 1px solid #f4f4f4;
+    padding-left: 30px;
+  }
 }
 
 @media only screen and (max-width:820px){

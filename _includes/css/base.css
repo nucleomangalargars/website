@@ -147,12 +147,6 @@ fieldset.info-box {
 }
 
 /* #Images */
-.icon {
-  background: url("/img/b_sprite.png") no-repeat;
-  background: url("/img/b_sprite.svg") no-repeat;
-  display: inline-block;
-  position: relative;
-}
 .logo {
   background: url("{{site.baseurl}}/img/logo.png") no-repeat;
   background-size: 100%;

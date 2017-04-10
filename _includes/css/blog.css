@@ -5,17 +5,17 @@
 .blog-post-title-small {
   font-size: 21px;
 }
-div.header-pages-title {
+.blog-container div.header-pages-title {
   display: none !important;
 }
-h4 {
+.blog-container h4 {
   border-bottom: 2px solid #211B1B;
 }
-.title {
+.blog-container .title {
   color: #444;
   text-decoration: none;
 }
-p {
+.blog-container p {
   font-size: 18px;
 }
 .blog-post-aside p {
@@ -32,10 +32,11 @@ p {
   max-width: 750px;
   font-size: 20px;
   line-height: 1.5;
+  padding: 20px;
 }
 .blog-container {
   background: #fff;
-  padding: 40px 80px;
+  padding: 20px;
 }
 .blog-post-item {
   margin-bottom: 60px;
@@ -45,16 +46,8 @@ p {
   font-size: 14px;
   font-weight: normal;
 }
-.blog-post-while{
+.blog-post-content-item {
   display: inline-block;
-  width: 60%;
-  margin-right: 30px;
   vertical-align: top;
-}
-.blog-post-aside{
-  display: inline-block;
-  width: 34%;
-  border-left: 1px solid #f4f4f4;
-  padding-left: 30px;
-  vertical-align: top;
+  width: 100%;
 }

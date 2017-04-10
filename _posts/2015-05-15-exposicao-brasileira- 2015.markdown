@@ -13,3 +13,7 @@ Amigo Mangalarguista,
 Além dos sempre concorridos julgamentos da raça, responsáveis por definir os Grandes Campeões Brasileiros de 2015, a agenda do evento incluirá atrações como: churrasco dos peões, coquetel de confraternização, show de escola de samba e um aguardado leilão.
 
 Confira a seguir a programação completa do evento e venha viver dias inesquecíveis com o Cavalo de Sela Brasileiro na Cidade Maravilhosa.
+
+<img class="photos-thumb" src="{{site.baseurl}}/img/2015-05-15-exposicao-brasileira-1.jpg" alt="">
+<img class="photos-thumb" src="{{site.baseurl}}/img/2015-05-15-exposicao-brasileira-2.jpg" alt="">
+<img class="photos-thumb" src="{{site.baseurl}}/img/2015-05-15-exposicao-brasileira-3.jpg" alt="">
