@@ -68,6 +68,7 @@ footer {
   position: relative;
   display: inline-block;
   vertical-align: top;
+  align-self: flex-start;
 }
 .content-fotos-item img {
   background-size: cover;
