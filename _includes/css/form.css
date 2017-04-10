@@ -22,6 +22,7 @@ label {
   margin-top: 10px;
   font-weight: bold;
 }
+textarea,
 input {
   width: 100%;
   border: 2px solid #211B1B;
