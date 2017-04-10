@@ -2,6 +2,7 @@
 title: SEMINÁRIO MANGALARGA 2015
 date: 2015-05-24 17:20:00 -02:00
 layout: post
+image: /img/2015-05-24-seminario-mangalarga-1.jpg
 ---
 
 Aqui você encontra mais informações sobre o Seminário Mangalarga 2015, Copa de Andamento e Concurso do Cavalo Completo.

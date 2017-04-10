@@ -2,6 +2,7 @@
 title: EXPOSIÇÃO BRASILEIRA 2015
 date: 2015-05-12 17:20:00 -02:00
 layout: post
+image: /img/2015-05-15-exposicao-brasileira-1.jpg
 ---
 
 Amigo Mangalarguista,

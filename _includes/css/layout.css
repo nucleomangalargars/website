@@ -11,7 +11,8 @@ body {
   /*color: #232323;*/
   font-weight: 300;
   letter-spacing: 1px;
-  color: rgba(0,0,0,.8);
+  /*color: rgba(0,0,0,.8);*/
+  color: #211B1B;
 }
 
 /* #content */
@@ -102,6 +103,21 @@ footer {
   margin-bottom: 60px;
   padding:20px 0 0 0;
   border-bottom: 2px solid #211B1B;
+}
+.content-landing-news-item {
+  display: inline-block;
+  margin: 10px;
+  list-style: none;
+  vertical-align: top;
+}
+.content-landing-news-item-title {
+  width: 100%;
+  display: inline-block;
+  padding: 5px;
+  font-size: 18px;
+  text-decoration: none;
+  background: #F9F7E8;
+  color: #211B1B;
 }
 
 /* #Fotos #Photos */
