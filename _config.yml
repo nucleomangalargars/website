@@ -1,6 +1,6 @@
 ---
-title: Núcleo Mangalarga RS
-timezone: America/Sao_Paulo
+title: Núcleo Mangalarga
+timezone: UTC
 collections:
   posts:
     title: Posts
@@ -8,12 +8,16 @@ collections:
   uploads:
     title: Uploads
     output: true
-markdown: kramdown
-baseurl: "/website"
-author: Núcleo Mangalarga RS
-email:
-description: Site do Núcleo Mangalarga do Rio Grande do Sul
-exclude:
-- README.md
-- Gemfile.lock
-- vendor
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty

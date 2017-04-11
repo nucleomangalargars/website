@@ -1,6 +1,6 @@
 ---
 title: O CAVALO E O HOMEM
-date: 2015-05-12 17:20:00 -02:00
+date: 2015-05-12 19:20:00 Z
 layout: post
 ---
 

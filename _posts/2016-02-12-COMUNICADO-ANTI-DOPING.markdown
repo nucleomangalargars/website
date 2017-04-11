@@ -1,6 +1,6 @@
 ---
 title: COMUNICADO ANTI – DOPING
-date: 2016-02-12 17:20:00 -02:00
+date: 2016-02-12 19:20:00 Z
 layout: post
 ---
 

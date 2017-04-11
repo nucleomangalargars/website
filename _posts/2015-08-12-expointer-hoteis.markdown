@@ -1,6 +1,6 @@
 ---
 title: EXPOINTER – HOTÉIS
-date: 2015-08-12 17:20:00 -02:00
+date: 2015-08-12 19:20:00 Z
 layout: post
 ---
 

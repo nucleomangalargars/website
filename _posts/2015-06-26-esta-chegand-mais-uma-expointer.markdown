@@ -1,6 +1,6 @@
 ---
 title: ESTÁ CHEGANDO MAIS UMA EXPOINTER
-date: 2015-06-26 17:20:00 -02:00
+date: 2015-06-26 19:20:00 Z
 layout: post
 ---
 

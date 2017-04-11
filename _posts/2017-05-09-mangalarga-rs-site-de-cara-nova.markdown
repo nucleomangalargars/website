@@ -1,6 +1,6 @@
 ---
 title: Mangalarga RS com site de cara nova
-date: 2017-05-09 17:20:00 -02:00
+date: 2017-05-09 19:20:00 Z
 layout: post
 ---
 

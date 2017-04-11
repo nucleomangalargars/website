@@ -1,6 +1,6 @@
 ---
 title: Atividades de Junho
-date: 2015-06-29 17:20:00 -02:00
+date: 2015-06-29 19:20:00 Z
 layout: post
 ---
 
