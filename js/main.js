@@ -47,9 +47,12 @@ $(document).ready(function(){
       console.log(submitURL);
       $(this)[0].action=submitURL;
       console.log("Enviou o google form");
-      // window.location.href = "/contato-sent.html";
-      //end user data form
+      setTimeout(function(){
+        window.location.href = "/contato-sent.html";
+      }, 2000);
+    } else {
+      console.log("Falha ao enviar");
+      return false;
     }
   });
-
 });//wrapper end
