@@ -5,7 +5,7 @@
 .blog-post-title-small {
   font-size: 21px;
 }
-.blog-container div.header-pages-title {
+.blog-post-page .header-pages-title {
   display: none !important;
 }
 .blog-container h4 {
