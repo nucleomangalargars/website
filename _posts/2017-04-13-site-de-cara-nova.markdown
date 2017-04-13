@@ -13,3 +13,4 @@ Esta semana, com muito orgulho atualizamos o site do Núcleo Mangalarga Rio Gran
 
 Agora os todos podem acessar o site e acompanhar o blog do Mangalarga RS pelo computador e também pelo celular!
 
+![site-de-cara-nova.jpg](/uploads/site-de-cara-nova.jpg)
