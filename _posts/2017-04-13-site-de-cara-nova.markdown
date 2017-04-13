@@ -5,8 +5,7 @@ categories:
 - mangalargars
 tags:
 - mangalarga
-Field name:
-  image: "/uploads/site-de-cara-nova.jpg"
+image: "/uploads/site-de-cara-nova.jpg"
 ---
 
 **A la pucha, tchê!**
