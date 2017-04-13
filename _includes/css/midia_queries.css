@@ -20,12 +20,19 @@
   /* Navegation */
   .header-navegation {
     margin-top: 100px;
+    padding: 0;
   }
   .navegation-link-content {
+    display: block;
     max-width: 1024px;
     background: #D3CFB4;
     padding-left: 40px;
     margin: 0 auto 0 130px;
+  }
+  .navegation-link {
+    padding: 0 10px;
+    display: inline-block;
+    text-align: left;
   }
   .content {
     max-width: 1024px;
@@ -103,5 +110,17 @@
   /*Navegation*/
   .desktop {
     display: none;
+  }
+  .flag-comemoracao {
+    top: 0;
+    background: url(/img/flag-comemoracao.png);
+    background: url(/img/flag-comemoracao.svg);
+    background-size: 100%;
+    position: relative;
+    width: 358px;
+    height: 66px;
+    z-index: 20;
+    display: block;
+    margin: 30px auto;
   }
 }

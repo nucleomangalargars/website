@@ -146,20 +146,41 @@ fieldset.info-box {
 
 /* #Navegation*/
 .header-navegation {
-
+  padding: 0 20px;
+  position: relative;
+  z-index: 100;
 }
 .navegation-link-content {
   max-width: 1024px;
   background: #D3CFB4;
   padding: 10px;
   margin: 0 auto;
+  display: none;
 }
 .navegation-link {
   font-size: 1em;
-  padding: 20px 10px;
+  padding: 10px 10px;
   text-decoration: none;
   color: #444;
+  display: block;
+  text-align: center;
 }
+.icon-hamburguer-menu {
+  background: #D2CEB3;
+  padding: 3px 0 0 6px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #211B1B;
+  text-decoration: none;
+  background-position: 0 -73px;
+  z-index: 10;
+  width: 50px;
+  height: 25px;
+  position: absolute;
+  right: 10px;
+  top: 15px;
+}
+
 
 /* #Images */
 .logo {
