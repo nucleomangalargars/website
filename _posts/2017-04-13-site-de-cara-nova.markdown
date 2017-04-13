@@ -5,9 +5,11 @@ categories:
 - mangalargars
 tags:
 - mangalarga
+Field name:
+  image: "/uploads/site-de-cara-nova.jpg"
 ---
 
-**A la pucha, tchê! **
+**A la pucha, tchê!**
 
 Esta semana, com muito orgulho atualizamos o site do Núcleo Mangalarga Rio Grande do Sul.
 
