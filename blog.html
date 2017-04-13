@@ -4,7 +4,7 @@ layout: page
 
 <div class="blog-container round-corner">
   <div class="blog-post-content-item blog-post-while">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:8 %}
       <div class="blog-post-item">
         <a class="title" href="..{{ post.url }}">
           <h2 class="blog-post-title-small">
@@ -21,7 +21,7 @@ layout: page
     {% endfor %}
   </div>
   <div class="blog-post-content-item blog-post-aside">
-    <h4>Arquivo</h4>
+    <h4><span class="current-year"></span></h4>
     {%for post in site.posts %}
       {% unless post.next %}
       {% else %}
