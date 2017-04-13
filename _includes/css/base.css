@@ -35,6 +35,18 @@ body {
   margin: 50px;
 }
 
+/* Flag 30 anos*/
+.flag-comemoracao {
+  background: url("{{site.baseurl}}/img/flag-comemoracao.png");
+  background-size: 100%;
+  position: absolute;
+  top: -70px;
+  right: 20px;
+  width: 329px;
+  height: 66px;
+  z-index: 20;
+}
+
 /* Modules */
 .quotes {
   font-size: 42px;

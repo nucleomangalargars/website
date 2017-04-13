@@ -33,6 +33,7 @@
   .content-inside {
     margin: 100px auto;
     padding: 20px;
+    position: relative;
   }
   .content-inside-box {
     margin: 0 20px;
