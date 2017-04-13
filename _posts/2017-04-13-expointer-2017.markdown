@@ -1,7 +1,7 @@
 ---
 title: Expointer 2017
 date: 2017-04-13 03:49:00 Z
-images: "/uploads/EXPOINTER-019.JPG"
+image: "/uploads/EXPOINTER-019.JPG"
 ---
 
 Expointer 2017
