@@ -38,6 +38,7 @@ body {
 /* Flag 30 anos*/
 .flag-comemoracao {
   background: url("{{site.baseurl}}/img/flag-comemoracao.png");
+  background: url("{{site.baseurl}}/img/flag-comemoracao.svg");
   background-size: 100%;
   position: absolute;
   top: -70px;
