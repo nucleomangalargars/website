@@ -10,7 +10,7 @@ layout: page
     <ul class="content-landing-news flex-content">
       {% for post in site.posts limit:3 %}
         <li class="content-landing-news-item flex-item">
-          <a class="content-landing-news-item-title" href="{{site.baseurl}}{{post.url}}">
+          <a class="content-landing-news-item-title image-zoom" href="{{site.baseurl}}{{post.url}}">
             {% if post.image %}
               <img class="content-landing-news-item-thumb" src="{{site.baseurl}}{{post.image}}" alt="">
             {% else %}
@@ -21,6 +21,16 @@ layout: page
         </li>
       {% endfor %}
     </ul>
+  </div>
+
+  <div class="simple-section">
+    <h3 class="white-headline">Apaixonados por Mangalarga</h3>
+    <img src="{{site.baseurl}}/img/mangalarga-fotos-home.png" alt="">
+    <div class="content-center">
+      <a class="btn" href="/fotos">
+        Veja mais fotos
+      </a>
+    </div>
   </div>
 
   <div class="container-flex">
@@ -48,16 +58,6 @@ layout: page
           </a>
         </p>
       </div>
-    </div>
-  </div>
-
-  <div class="simple-section">
-    <h3 class="white-headline">Apaixonados por Mangalarga</h3>
-    <img src="{{site.baseurl}}/img/mangalarga-fotos-home.png" alt="">
-    <div class="content-center">
-      <a class="btn" href="/fotos">
-        Veja mais fotos
-      </a>
     </div>
   </div>
 </div>
