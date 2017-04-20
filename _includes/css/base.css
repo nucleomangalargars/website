@@ -214,3 +214,16 @@ fieldset.info-box {
 .footer-content {
   text-align: center;
 }
+.footer-sponsors {
+  padding: 20px 0;
+  background: #D3CFB4;
+  color: #211B1B;
+  font-weight: bold;
+  width: 30%;
+  /*display: inline-block;*/
+  margin: 0 auto;
+  text-align: center;
+  -webkit-border-radius: 10px;
+     -moz-border-radius: 10px;
+          border-radius: 10px;
+}

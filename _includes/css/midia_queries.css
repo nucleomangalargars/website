@@ -123,4 +123,7 @@
     display: block;
     margin: 30px auto;
   }
+  .footer-sponsors {
+    width: 100%;
+  }
 }
