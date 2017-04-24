@@ -6,7 +6,7 @@ tags:
 - Eleição
 - Mangalarga
 - cavalo
-Key: 
+image: "/uploads/diretoria.jpg"
 ---
 
 Lembramos aos associados que dia 29/08/2017, a partir da 19h e 30min será realizada Assembléia Geral para as eleições da Diretoria do NRCCRMangalarga, na sede social do Parque de Exposições Assis Brasil – Esteio – RS.
