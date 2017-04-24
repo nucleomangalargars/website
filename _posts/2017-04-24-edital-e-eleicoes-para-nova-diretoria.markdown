@@ -1,5 +1,5 @@
 ---
-title: Edital e eleições para nova diretoria
+title: Edital e eleições para nova Diretoria
 date: 2017-04-24 12:04:00 Z
 tags:
 - Assembléia
@@ -16,6 +16,5 @@ As inscrições das chapas para a eleição devem ocorrer até 30 dias anteriore
 Alertamos, principalmente, para o cumprimento dos artigos 20, 21, 33, 34 e demais do Estatuto Social vigente, que está disponível pelo link [Estatuto Mangalarga](/uploads/Estatuto-Mangalarga.pdf)
 
 Com as devidas saudações mangalarguistas,
-
 Hugo Anélio Lipp Farias
 Presidente NRCCRM
