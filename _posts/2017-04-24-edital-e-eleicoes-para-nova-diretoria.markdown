@@ -13,7 +13,7 @@ Lembramos aos associados que dia 29/08/2017, a partir da 19h e 30min será reali
 
 As inscrições das chapas para a eleição devem ocorrer até 30 dias anteriores a data da Assembléia Geral junto ao Diretor Secretário (Vitomiro Machado), preferencialmente via eletrônica ou pessoalmente.
 
-Alertamos, principalmente, para o cumprimento dos artigos 20, 21, 33, 34 e demais do Estatuto Social vigente, que está disponível pelo link <a href="http://nucleomangalargars.com.br/uploads/Estatuto-Mangalarga.pdf" target="_blank">Estatuto Mangalarga</a>/uploads/Estatuto-Mangalarga.pdf)
+Alertamos, principalmente, para o cumprimento dos artigos 20, 21, 33, 34 e demais do Estatuto Social vigente, que está disponível pelo link <a href="http://nucleomangalargars.com.br/uploads/Estatuto-Mangalarga.pdf" target="_blank">Estatuto Mangalarga
 
 Com as devidas saudações mangalarguistas,
 Hugo Anélio Lipp Farias
