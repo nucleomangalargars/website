@@ -8,9 +8,7 @@ tags:
 image: "/uploads/inscricoes-abertas-semana-18.jpg"
 ---
 
-Estão abertas as inscrições para a Expointer 2017.
-
-Para inscrever seu cavalo Mangalarga na maior Feira Agropecuária da América Latina pedimos que envie o nome do animal para o email capitaoanelio@hotmail.com com o assunto Inscrição.
+Para inscrever seu cavalo Mangalarga na maior Feira Agropecuária da América Latina, a Expointer, pedimos que envie o nome do animal para o email **capitaoanelio@hotmail.com** com o assunto Inscrição.
 
 Atenção: Taxa de inscrição será cobrada apenas dos animais que entrarem no Parque na Exposição, podendo assim o proprietário inscrever todos os cavalos que hoje pretende levar a feira, mesmo os que a participação ainda não esteja totalmente confirmada. 
 
