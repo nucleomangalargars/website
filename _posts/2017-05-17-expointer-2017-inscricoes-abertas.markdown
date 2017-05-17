@@ -19,10 +19,7 @@ Documentos que serão solicitados para entrar na Expointer 2017:
 - Atestado de Vacinação contra Influenza Equina
 - Atestado de Propriedade Livre de Doenças Infecto Contagiosas nos últimos 6 meses
 
-Obs: Animais devem chegar a Expointer 2017 sem ectoparasitas, fungos e verrugas, principalmente nas orelhas.
-
-Valor da inscrição a ser pago após a entrada dos animais: R$ 400 por cavalo.
-
+Animais devem chegar a Expointer 2017 sem ectoparasitas, fungos e verrugas, principalmente nas orelhas.
 
 
 
