@@ -10,9 +10,9 @@ image: "/uploads/inscricoes-abertas-semana-18.jpg"
 
 Para inscrever seu cavalo Mangalarga na maior Feira Agropecuária da América Latina, a Expointer, pedimos que envie o nome do animal para o email **capitaoanelio@hotmail.com** com o assunto Inscrição.
 
-Atenção: Taxa de inscrição será cobrada apenas dos animais que entrarem no Parque na Exposição, podendo assim o proprietário inscrever todos os cavalos que hoje pretende levar a feira, mesmo os que a participação ainda não esteja totalmente confirmada. 
+Atenção: Taxa de inscrição será cobrada apenas dos animais que entrarem no Parque de Exposição Assis Brasil, podendo assim o proprietário adiantar as inscrições de todos os cavalos que hoje pretende levar a feira, mesmo os que a participação não esteja totalmente confirmada. 
 
-Os documentos necessários para entrar na Expointer: 
+Documentos que serão solicitados para entrar na Expointer 2017: 
 - Xerox do Registro
 - Atestado de Anemia Infecciosa
 - Mormo
