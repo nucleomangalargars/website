@@ -219,7 +219,7 @@ fieldset.info-box {
   background: #D3CFB4;
   color: #211B1B;
   font-weight: bold;
-  width: 40%;
+  width: 50%;
   /*display: inline-block;*/
   margin: 0 auto;
   text-align: center;
@@ -229,6 +229,6 @@ fieldset.info-box {
 }
 .footer-sponsors-link {
   display: inline-block;
-  padding: 0 20px;
+  padding: 0 60px;
   vertical-align: middle;
 }
