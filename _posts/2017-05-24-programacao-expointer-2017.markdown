@@ -35,7 +35,8 @@ Entrada dos Animais
 Eleições para Nova Diretoria do NRCCRM  
 
 **30/08 (Quarta)**  
-Palestra aberta ao público: Viroses Emergentes em Equinos com o Dr. Fernando Rosado Spilki  
+Palestra aberta ao público: Viroses Emergentes em Equinos com o   
+Dr. Fernando Rosado Spilki  
 
 **02/09 (Sábado)**  
 14h - Prova de Maneabilidade  
