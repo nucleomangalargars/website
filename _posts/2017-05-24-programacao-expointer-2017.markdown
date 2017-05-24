@@ -3,6 +3,8 @@ title: Programação Expointer 2017
 date: 2017-05-24 00:49:00 Z
 tags:
 - Expointer
+- Expointer 2017
+image: "/uploads/programacao-expointer-blog.jpg"
 ---
 
 ![programacao-expointer-blog.jpg](/uploads/programacao-expointer-blog.jpg)
