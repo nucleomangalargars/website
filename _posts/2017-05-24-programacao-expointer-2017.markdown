@@ -24,13 +24,13 @@ Entrada dos Animais
 
 **27/08 (Domingo)**  
 8h às 14h - Julgamento Morfológico  
-14h30 - Prova 3 Tambores 
+14h30 - Prova 5 Tambores 
 15h - Prova Feminina de Andamento  
 16h30 - Julgamento Morfológico  
 
 **28/08 (Segunda)**  
 8h - Julgamento Morfológico  
-10h - Prova 3 Tambores  
+10h - Prova 5 Tambores  
 12h - Saída dos Animais vindos de outros Estados  
 
 **29/08 (Terça)**  
