@@ -19,7 +19,8 @@ Entrada dos Animais
 08h às 14h - Julgamento Morfológico  
 14h30 - Prova de 6 Balizas  
 15h - Prova Cavalo x Moto  
-17h - Julgamento Morfológico 21h - Coquetel de Comemoração dos 30 anos do NRCCRM para convidados e ex-presidentes, com descerramento da placa comemorativa  
+17h - Julgamento Morfológico 
+21h - Coquetel de Comemoração dos 30 anos do NRCCRM para convidados e ex-presidentes, com descerramento da placa comemorativa  
 
 **27/08 (Domingo)**  
 8h às 14h - Julgamento Morfológico  
