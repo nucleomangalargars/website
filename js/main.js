@@ -48,7 +48,7 @@ $(document).ready(function(){
       $(this)[0].action=submitURL;
       console.log("Enviou o google form");
       setTimeout(function(){
-        window.location.href = "/contato-sent.html";
+        window.location.href = "/contato-sent";
       }, 2000);
     } else {
       console.log("Falha ao enviar");
