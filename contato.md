@@ -4,65 +4,54 @@ pagename: Contato
 ---
 
 <div class="container-flex">
-  <div class="content-inside-box-full round-corner">
-    <div class="content-inside-box-header">
-      {{page.pagename}}
-    </div>
-    <div class="content-inside-box-full--content">
-      <div class="container-flex">
-        <div class="container-flex-content">
-          <div class="content-inside-box">
+<div class="container-flex-content">
+<div class="content-inside-box">
 
-            <form id="input-form-shiping" action="" method="POST" target="no-target">
-              <label for="">Nome</label>
-              <input id="input-q1" class="payment-input" type="text" name="name" value="" tabindex="1">
+  <form id="input-form-shiping" action="" method="POST" target="no-target">
+    <label for="">Nome</label>
+    <input id="input-q1" class="payment-input" type="text" name="name" value="" tabindex="1">
 
-              <label for="">E-mail</label>
-              <input id="input-q2" class="payment-input" type="text" name="name" value="" tabindex="2">
+    <label for="">E-mail</label>
+    <input id="input-q2" class="payment-input" type="text" name="name" value="" tabindex="2">
 
-              <label for="">Telefone (Opcional)</label>
-              <input id="input-q3" class="payment-input" type="text" name="name" value="" tabindex="3">
+    <label for="">Telefone (Opcional)</label>
+    <input id="input-q3" class="payment-input" type="text" name="name" value="" tabindex="3">
 
-              <label for=""> Como podemos te ajudar? (Mensagem)</label>
-              <textarea id="input-q4" class="payment-input" type="text" name="name" value="" tabindex="4"></textarea>
+    <label for=""> Como podemos te ajudar? (Mensagem)</label>
+    <textarea id="input-q4" class="payment-input" type="text" name="name" value="" tabindex="4"></textarea>
 
-              <input type="hidden" name="fvv" value="1"><input type="hidden" name="draftResponse" value="[null,null,&quot;8482442145600364076&quot;]
-              "><input type="hidden" name="pageHistory" value="0"><input type="hidden" name="fbzx" value="8482442145600364076">
-              <input id="input-q7" type="text" name="name" value="" tabindex="1" style="display:none;">
-              <p>
-                <button type="submit" class="btn bnt-submit-google-form" id="form-submit"> Enviar mensagem </button>
-              </p>
-            </form>
-            <iframe src="" id="no-target" name="no-target" style="visibility:hidden"></iframe>
-          </div>
-        </div>
+    <input type="hidden" name="fvv" value="1"><input type="hidden" name="draftResponse" value="[null,null,&quot;8482442145600364076&quot;]
+    "><input type="hidden" name="pageHistory" value="0"><input type="hidden" name="fbzx" value="8482442145600364076">
+    <input id="input-q7" type="text" name="name" value="" tabindex="1" style="display:none;">
+    <p>
+      <button type="submit" class="btn bnt-submit-google-form" id="form-submit"> Enviar mensagem </button>
+    </p>
+  </form>
+  <iframe src="" id="no-target" name="no-target" style="visibility:hidden"></iframe>
+</div>
+</div>
 
-        <div class="container-flex-aside">
-          <div class="content-inside-box">
-            <p>
-              <b>Endereço:</b>
-            </p>
-            Rua Padre José Mauricio 7 Novo Hamburdo - RS CEP: 93310-290 Tel: (51) 3593-9704 / (51) 9984-7416
+<div class="container-flex-aside">
+<div class="content-inside-box">
+  <p>
+    <b>Endereço:</b>
+  </p>
+  Rua Padre José Mauricio 7 Novo Hamburdo - RS CEP: 93310-290 Tel: (51) 3593-9704 / (51) 9984-7416
 
-            <p>
-              <b>Receber novidades sobre Mangalarga, Qual seu email?</b>
-            </p>
-            <!-- Begin MailChimp Signup Form -->
-            <div id="mc_embed_signup">
-            <form action="//nucleomangalargars.us15.list-manage.com/subscribe/post?u=4448805a2df48bfe8a96a7aec&amp;id=c65a9065c0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                <div id="mc_embed_signup_scroll">
+  <p>
+    <b>Receber novidades sobre Mangalarga, Qual seu email?</b>
+  </p>
+  <!-- Begin MailChimp Signup Form -->
+  <div id="mc_embed_signup">
+  <form action="//nucleomangalargars.us15.list-manage.com/subscribe/post?u=4448805a2df48bfe8a96a7aec&amp;id=c65a9065c0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+      <div id="mc_embed_signup_scroll">
 
-            	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Qual seu email?" required>
-                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4448805a2df48bfe8a96a7aec_c65a9065c0" tabindex="-1" value=""></div>
-                <div class="clear"><input type="submit" value="Receber novidades" name="subscribe" id="mc-embedded-subscribe" class="btn"></div>
-                </div>
-            </form>
-            </div>
-            <!--End mc_embed_signup-->
-          </div>
-        </div>
+  	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Qual seu email?" required>
+      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4448805a2df48bfe8a96a7aec_c65a9065c0" tabindex="-1" value=""></div>
+      <div class="clear"><input type="submit" value="Receber novidades" name="subscribe" id="mc-embedded-subscribe" class="btn"></div>
       </div>
-    </div>
+  </form>
   </div>
+  <!--End mc_embed_signup-->
 </div>

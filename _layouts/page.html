@@ -4,10 +4,19 @@
     <div class="content">
       <div class="content-inside">
         <div class="flag-comemoracao"></div>
-        {{ content }}
+        <div class="container-flex">
+          <div class="content-inside-box-full round-corner">
+            <div class="content-inside-box-header">
+              {{page.pagename}}
+            </div>
+            <div class="content-inside-box-full--content">
+              {{ content }}
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-    {% include footer.html %}
+    {% include footer.md %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script src="/js/main.js"></script>
     <script src="/js/lightbox.js"></script>
