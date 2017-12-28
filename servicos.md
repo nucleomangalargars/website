@@ -21,4 +21,4 @@ O Núcleo Mangalarga RS disponibiliza este espaço de classificados como ferrame
 
 ## Pesquisa de Animais/Afixos
 Para pesquiasr por nome, registro, classificação etc acesse o link a seguir:
-http://www.cavalomangalarga.com.br/procuraanimal.aspx
+[http://www.cavalomangalarga.com.br/procuraanimal.aspx](http://www.cavalomangalarga.com.br/procuraanimal.aspx)
