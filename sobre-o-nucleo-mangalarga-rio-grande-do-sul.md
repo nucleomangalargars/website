@@ -3,8 +3,6 @@ title: Sobre o Núcleo Mangalarga no Rio Grande do Sul
 layout: page
 ---
 
-<div class="bg-brasao"></div>
-
 ## Bem-Vindos
 
 O Núcleo Riograndense de Criados de Cavalo da Raça Mangalarga (NRCCRM) agradece sua visita e através do site visa o crescimento de seu conhecimento sobre esta raça.
@@ -52,3 +50,4 @@ Vilson Ribeiro Nunes
 Eduardo Faria Finco
 
 <div class="bg-horse bg-horse-bottom"></div>
+<div class="bg-brasao"></div>
