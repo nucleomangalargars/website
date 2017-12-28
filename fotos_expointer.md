@@ -5,7 +5,7 @@ layout: page
 
 <a href="/fotos">« Voltar par Fotos </a>
 
-Expointer 2012
+## Expointer 2012
 
 <a class="content-fotos-item content-fotos-item--photos" href="{{site.baseurl}}/img/fotos/expointer/Expointer_2012.jpg" data-lightbox="horses" data-title="Expointer 2012">
 <img class="photos-thumb" src="{{site.baseurl}}/img/fotos/expointer/Expointer_2012.jpg" alt="">
@@ -13,7 +13,7 @@ Expointer 2012
 
 
 
-Expointer 2013
+## Expointer 2013
 
 <a class="content-fotos-item content-fotos-item--photos" href="{{site.baseurl}}/img/fotos/expointer/Expointer_2013.jpg" data-lightbox="horses" data-title="Expointer 2013">
 <img class="photos-thumb" src="{{site.baseurl}}/img/fotos/expointer/Expointer_2013.jpg" alt="">
@@ -21,7 +21,7 @@ Expointer 2013
 
 
 
-Expointer 2015
+## Expointer 2015
 
 
 <a class="content-fotos-item content-fotos-item--photos" href="{{site.baseurl}}/img/fotos/expointer/expointer_2015_1.jpg" data-lightbox="horses" data-title="Expointer 2015">
