@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Fotos
+layout: page
 ---
+
   Morfologia
   <a href="{{site.baseurl}}/fotos_morfologia" class="content-fotos-item image-zoom">
     <img src="{{site.baseurl}}/img/fotos_morfologia.jpg" alt="">

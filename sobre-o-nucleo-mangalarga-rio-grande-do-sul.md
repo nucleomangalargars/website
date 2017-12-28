@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Sobre o Núcleo Mangalarga no Rio Grande do Sul
+layout: page
 ---
 
 <div class="bg-brasao"></div>

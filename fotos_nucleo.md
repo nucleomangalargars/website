@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Fotos do Núcleo
+layout: page
 ---
 
 <a href="/fotos">« Voltar par Fotos </a>

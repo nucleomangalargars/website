@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Fotos da Expointer
+layout: page
 ---
 
 <a href="/fotos">« Voltar par Fotos </a>
