@@ -1,6 +1,6 @@
 ---
 layout: page
-pagename: Sobre o Cavalo Mangalarga
+title: Sobre o Cavalo Mangalarga
 ---
 
 O cavalo Mangalarga é uma raça genuinamente brasileira

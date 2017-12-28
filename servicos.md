@@ -1,6 +1,6 @@
 ---
 layout: page
-pagename: Serviços
+title: Serviços
 ---
 
 Classificados

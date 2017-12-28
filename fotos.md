@@ -1,6 +1,6 @@
 ---
 layout: page
-pagename: Fotos
+title: Fotos
 ---
   Morfologia
   <a href="{{site.baseurl}}/fotos_morfologia" class="content-fotos-item image-zoom">

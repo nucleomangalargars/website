@@ -1,6 +1,6 @@
 ---
 layout: page
-pagename: Contato
+title: Contato
 ---
 
 <div class="container-flex">

@@ -1,6 +1,6 @@
 ---
 layout: page
-pagename: Função
+title: Função
 ---
 
 <a href="/fotos">« Voltar par Fotos </a>

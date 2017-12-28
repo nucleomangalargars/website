@@ -1,9 +1,7 @@
 ---
 layout: page
+title: Sobre o Núcleo Mangalarga no Rio Grande do Sul
 ---
-
-
-Sobre o Núcleo Mangalarga no Rio Grande do Sul
 
 <div class="bg-brasao"></div>
 

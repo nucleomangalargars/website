@@ -1,6 +1,6 @@
 ---
 layout: page
-pagename: Morfologia
+title: Morfologia
 ---
 
 <a href="/fotos">« Voltar par Fotos </a>

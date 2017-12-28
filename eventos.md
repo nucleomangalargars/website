@@ -1,4 +1,4 @@
 ---
 layout: page
-pagename: Eventos
+title: Eventos
 ---

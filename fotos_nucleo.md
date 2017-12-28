@@ -1,6 +1,6 @@
 ---
 layout: page
-pagename: Fotos do Núcleo
+title: Fotos do Núcleo
 ---
 
 <a href="/fotos">« Voltar par Fotos </a>
