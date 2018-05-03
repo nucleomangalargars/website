@@ -14,7 +14,7 @@ Assim sendo, em 1987, durante a exposição internacional, já no Parque de Expo
 ### DIRETORIA
 
 Presidente:
-HUGO ANÉLIO LIPP FARIAS — (51) 99847416
+VILSON RIBEIRO NUNES - (51) 984678948
 
 Vice Presidente:
 ELISANDRA AGUIAR DA CRUZ — (54) 96501337
