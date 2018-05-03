@@ -1,6 +1,7 @@
 ---
 title: EXPOINTER 2018
 date: 2018-05-03 11:39:00 Z
+Image: "/uploads/programacao-expointer-blog.jpg"
 ---
 
 ![programacao-expointer-blog.jpg](/uploads/programacao-expointer-blog.jpg)
