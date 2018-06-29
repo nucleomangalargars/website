@@ -24,7 +24,7 @@ Entrada dos Animais
 **27/08 (Domingo)**  
 9h às 12h - Julgamento Morfológico  
 15h00 - Prova 3 Tambores  
-16h - Prova Feminina de Andamento  
+16h - Prova de Maneabilidade (Campeonato funcional nacional)
 
 **28/08 (Segunda)**  
 Saída dos Animais provenientes de outros Estados  
