@@ -4,7 +4,8 @@ date: 2017-05-24 00:49:00 Z
 tags:
 - Expointer
 - Expointer 2017
-image: "/uploads/programacao-expointer-blog.jpg"
+image: "/uploads/MANGALARGA%20flyer.png"
+Field name: 
 ---
 
 ![programacao-expointer-blog.jpg](/uploads/programacao-expointer-blog.jpg)
