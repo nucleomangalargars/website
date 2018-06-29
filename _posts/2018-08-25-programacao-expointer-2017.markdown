@@ -7,38 +7,30 @@ image: "/uploads/MANGALARGA%20flyer-bbc21b.png"
 Field name: 
 ---
 
-![programacao-expointer-blog.jpg](/uploads/programacao-expointer-blog.jpg)
+INSCRIÇÕES PARA EXPOINTER 2018
+ATÉ O DIA 25/07/2018
+ATRAVÉS DO E-MAIL NUCLEOMANGALARGARS@GMAIL.COM
 
 **24/08 (Quinta)**  
 Entrada dos Animais
 
 **25/08 (Sexta)**  
-14h às 19h - Julgamento Morfológico  
-
+09h às 12h - Julgamento Morfológico pista 14/15 
+15h - Prova funcional 5 tambores pista 14/15
 **26/08 (Sábado)**  
-08h às 14h - Julgamento Morfológico  
-14h30 - Prova de 6 Balizas  
-15h - Prova Cavalo x Moto  
-17h - Julgamento Morfológico  
-21h - Coquetel de Comemoração dos 30 anos do NRCCRM para convidados e ex-presidentes, com descerramento da placa comemorativa  
-
+09h às 12h - Julgamento Morfológico  
+14:30h - Prova de 6 Balizas  
+16h - Prova Cavalo x Moto  
 **27/08 (Domingo)**  
-8h às 14h - Julgamento Morfológico  
-14h30 - Prova 3 Tambores  
-15h - Prova Feminina de Andamento  
-16h30 - Julgamento Morfológico  
+9h às 12h - Julgamento Morfológico  
+15h00 - Prova 3 Tambores  
+16h - Prova Feminina de Andamento  
 
 **28/08 (Segunda)**  
-8h - Julgamento Morfológico  
-10h - Prova 5 Tambores  
-12h - Saída dos Animais vindos de outros Estados  
-
-**29/08 (Terça)**  
-Eleições para Nova Diretoria do NRCCRM  
+Saída dos Animais provenientes de outros Estados  
 
 **30/08 (Quarta)**  
-Palestra aberta ao público: Viroses Emergentes em Equinos com o   
-Dr. Fernando Rosado Spilki  
+Palestra aberta ao público: A definir
 
 **02/09 (Sábado)**  
 14h - Prova de Maneabilidade  
