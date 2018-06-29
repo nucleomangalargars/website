@@ -1,10 +1,9 @@
 ---
-title: Programação Expointer 2017
-date: 2017-05-24 00:49:00 Z
+title: Programação Expointer 2018
+date: 2018-08-25 00:49:00 Z
 tags:
-- Expointer
-- Expointer 2017
-image: "/uploads/MANGALARGA%20flyer.png"
+- Expointer 2018
+image: "/uploads/MANGALARGA%20flyer-bbc21b.png"
 Field name: 
 ---
 
