@@ -1,5 +1,7 @@
 ---
-title: Programação Expointer 2018
+title: |-
+  Programação Expointer 2018
+  nucleomangalargars@gmail.com
 date: 2018-08-25 00:49:00 Z
 tags:
 - Expointer 2018
