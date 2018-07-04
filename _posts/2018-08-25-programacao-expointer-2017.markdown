@@ -12,6 +12,12 @@ Field name:
 INSCRIÇÕES PARA EXPOINTER 2018
 ATÉ O DIA 25/07/2018
 ATRAVÉS DO E-MAIL NUCLEOMANGALARGARS@GMAIL.COM
+Documentos que serão solicitados para entrar na Expointer 2018: 
+- Xerox do Registro
+- Exame de Anemia Infecciosa
+- Exame de Mormo
+- Carteira de Vacinação contra Influenza Equina
+- Atestado de Propriedade Livre de Doenças Infecto Contagiosas nos últimos 6 meses
 
 **24/08 (Quinta)**  
 Entrada dos Animais
