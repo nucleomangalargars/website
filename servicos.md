@@ -4,7 +4,7 @@ layout: page
 ---
 
 ### Classificados
-Para anunciar e obter mais informações, entre em contato no email: nucleo@mangalargars.com.br
+Para anunciar e obter mais informações, entre em contato no email: nucleomangalargars@gmail.com
 
 
 <img src="{{site.baseurl}}/img/classificados/hercules_anelio.png" alt="">
