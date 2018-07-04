@@ -1,9 +1,0 @@
----
-title: Expointer 2017
-date: 2017-04-13 03:49:00 Z
-image: "/uploads/EXPOINTER-019.JPG"
----
-
-Expointer 2017
-
-![EXPOINTER-019.JPG](/uploads/EXPOINTER-019.JPG)
