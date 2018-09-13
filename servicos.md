@@ -6,6 +6,12 @@ layout: page
 ### Classificados
 Para anunciar e obter mais informações, entre em contato no email: nucleomangalargars@gmail.com
 
+![Fladimir1.jpg](/uploads/Fladimir1.jpg)
+![Fladimir2.jpg](/uploads/Fladimir2.jpg)
+Inteiro. Farroupilha do FDO. Filho jorael do jao - cuiudo mais caro no brasil mangalarga paulista
+Nasceu 25/10/2012. 5 anos e 5 meses
+Valor: 20 mil
+Fazenda dos Cardeais
 
 <img src="{{site.baseurl}}/img/classificados/hercules_anelio.png" alt="">
 Hércules do Anélio - Contato: Hugo Farias (51) 9984.7416
