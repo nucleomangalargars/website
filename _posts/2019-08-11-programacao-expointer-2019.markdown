@@ -32,7 +32,7 @@ table td:nth-child(1){
 </style>
 
 <h2>
-  Programação Mangalarga — 22 de Agosto a 01 de Setembro de 2019
+  Mangalarga — 22 de Agosto a 01 de Setembro de 2019
 </h2>
 
 <table>
