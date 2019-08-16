@@ -1,18 +1,17 @@
 ---
 title: |-
-  Programação Expointer 2018
-  nucleomangalargars@gmail.com
+  Expointer 2018
 date: 2018-08-25 00:49:00 Z
 tags:
 - Expointer 2018
-image: "/uploads/MANGALARGA%20flyer-bbc21b.png"
-Field name: 
+image: "https://www.expointer.rs.gov.br/upload/recortes/201608/02145250_2948_GD.jpg"
+Field name:
 ---
 
 INSCRIÇÕES PARA EXPOINTER 2018
 ATÉ O DIA 25/07/2018
 ATRAVÉS DO E-MAIL NUCLEOMANGALARGARS@GMAIL.COM
-Documentos que serão solicitados para entrar na Expointer 2018: 
+Documentos que serão solicitados para entrar na Expointer 2018:
 - Xerox do Registro
 - Exame de Anemia Infecciosa
 - Exame de Mormo
@@ -23,7 +22,7 @@ Documentos que serão solicitados para entrar na Expointer 2018:
 Entrada dos Animais
 
 **25/08 (Sexta)**  
-09h às 12h - Julgamento Morfológico pista 14/15 
+09h às 12h - Julgamento Morfológico pista 14/15
 15h - Prova funcional 5 tambores pista 14/15
 **26/08 (Sábado)**  
 09h às 12h - Julgamento Morfológico  
