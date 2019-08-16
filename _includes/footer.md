@@ -1,14 +1,11 @@
 <footer class="footer">
   <div class="footer-sponsors">
     <p>Patrocinadores</p>
-    <a class="footer-sponsors-link" href="http://www.lavizoo.com.br/" target="_blank">
-      <img style="width:200px;" src="{{site.baseurl}}/img/fotos/sponsors/sponsor-lavizoo.png" alt="">
+    <a class="footer-sponsors-link" href="http://www.biofarm.com.br" target="_blank">
+      <img style="width:300px;" src="{{site.baseurl}}/img/fotos/sponsors/biofarm.png" alt="">
     </a>
-    <a class="footer-sponsors-link" href="https://www.facebook.com/pages/Ferragem-e-Agropecuaria-Galo-Branco/1727783540790860" target="_blank">
-      <img style="width:120px;" src="{{site.baseurl}}/img/fotos/sponsors/galo-branco.png" alt="">
-    </a>
-    <a class="footer-sponsors-link" href="" target="_blank">
-      <img style="width:120px;" src="{{site.baseurl}}/img/fotos/sponsors/racao-real.png" alt="">
+    <a class="footer-sponsors-link" target="_blank">
+      <img style="width:300px;" src="{{site.baseurl}}/img/fotos/sponsors/agranja.png" alt="">
     </a>
   </div>
   <a href="#" class="icon go-top"></a>
