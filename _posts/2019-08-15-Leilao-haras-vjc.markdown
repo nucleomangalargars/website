@@ -1,7 +1,7 @@
 ---
 title: Leilão Haras VJC  
  24 Agosto de 2019
-date: 2018-08-25 00:49:00 Z
+date: 2019-08-11 00:49:00 Z
 tags:
 - Expointer 2019
 image: "/uploads/leilao-2019.png"

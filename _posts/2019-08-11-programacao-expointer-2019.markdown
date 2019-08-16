@@ -1,7 +1,7 @@
 ---
 title: |-
   Programação 42ª EXPOINTER 2019
-date: 2018-08-25 00:49:-0.1 Z
+date: 2019-08-15 00:49:-0.1 Z
 tags:
 - Expointer 2019
 image: "https://www.expointer.rs.gov.br/upload/recortes/201608/02145250_2948_GD.jpg"
