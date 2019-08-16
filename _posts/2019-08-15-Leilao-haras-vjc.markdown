@@ -8,10 +8,8 @@ image: "/uploads/leilao-2019.png"
 Field name:
 ---
 
-<object data="/uploads/HarasVJC_Leilao2019.pdf" type="application/pdf" width="100%" height="650px" title="">
+<object data="/uploads/HarasVJC_Leilao2019.pdf" type="application/pdf" width="100%" height="1000px" title="">
   <p><a href="/uploads/HarasVJC_Leilao2019.pdf" class="btn-download">Baixar o catálodo do leilão</a></p>
 </object>
-<br>
-<br>
 <br>
 <br>
