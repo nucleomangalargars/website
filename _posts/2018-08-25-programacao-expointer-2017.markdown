@@ -1,11 +1,10 @@
 ---
-title: |-
-  Expointer 2018
+title: Expointer 2018
 date: 2018-08-25 00:49:00 Z
 tags:
 - Expointer 2018
-image: "https://www.expointer.rs.gov.br/upload/recortes/201608/02145250_2948_GD.jpg"
-Field name:
+image: https://www.expointer.rs.gov.br/upload/recortes/201608/02145250_2948_GD.jpg
+Field name: 
 ---
 
 INSCRIÇÕES PARA EXPOINTER 2018

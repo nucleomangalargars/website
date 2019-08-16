@@ -1,11 +1,10 @@
 ---
-title: |-
-  42ª EXPOINTER — 22 de Agosto a 01 de Setembro de 2019
-date: 2018-08-25 00:49:-0.1 Z
+title: 42ª EXPOINTER — 22 de Agosto a 01 de Setembro de 2019
+date: 2018-08-25 00:49:00 Z
 tags:
 - Expointer 2019
-image: "https://www.expointer.rs.gov.br/upload/recortes/201808/28150601_47415_GDO.jpg"
-Field name:
+image: https://www.expointer.rs.gov.br/upload/recortes/201808/28150601_47415_GDO.jpg
+Field name: 
 ---
 
 <style>
