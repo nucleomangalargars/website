@@ -1,6 +1,6 @@
 ---
 title: Postagem de fotos
-date: 2017-12-28 12:27:00 Z
+date: 2018-12-28 12:27:00 Z
 image: "/uploads/30-anos-de-mangalargars.png"
 ---
 
