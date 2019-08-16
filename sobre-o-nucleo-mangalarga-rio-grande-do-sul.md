@@ -13,41 +13,49 @@ Assim sendo, em 1987, durante a exposição internacional, já no Parque de Expo
 
 ### DIRETORIA
 
-Presidente:
-VILSON RIBEIRO NUNES - (51) 984678948
+**Presidente:**
+<br>
+Laércio Leismann - (51) 99985 6982  
 
-Vice Presidente:
-ELISANDRA AGUIAR DA CRUZ — (54) 96501337
+**Vice Presidente:**
+<br>
+Hugo A. l. Farias - (51) 99984 7416
 
-Diretor Secretário:
-VITOMIRO ANTONIO MACHADO — (51) 99618060
+**Diretor Secretário:**
+<br>
+Vitomiro Antonio Machado - (51) 99618060
 
-Diretor Tesoureiro:
-LAÉRCIO LEISMANN — (51) 99856982
+**Diretor Tesoureiro:**
+<br>
+Eduardo A. Konarzewski - (51) 98585 6922
 
-Diretor de Fomento:
-CLEYTON RINKEVICIUS — (51) 92376606
+**Diretor de Fomento:**
+<br>
+João F. A. Pozzi - (51) 99982 9005
 
-### CONSELHO FISCAL
+<hr>
+
+**CONSELHO FISCAL**
+<br>
 Heitor Weber, Eduardo Faria Finco, Telmo Cardoso Bernardes, Vitor Iguassú das Neves Gay, João Fernando Argento Pozzi
 
-### DIRETORIA TÉCNICA
-Hugo Anélio Lipp Farias
+**DIRETORIA TÉCNICA**
+<br>
+Natasha Konarzewski - (51) 98585 6925
 
-### DIRETOR DE PATRIMÔNIO
-Clóvis Lothar Machado
+**DIRETORES DE PATRIMÔNIO**
+<br>
+Clóvis L. Machado - (51) 99979 1664
+<br>
+Vitor I. N. Gay - (51) 99986 3216
 
-### DIRETOR DE PROVAS
+**DIRETOR DE PROVAS**
+<br>
 Cristiano Antunes dos Santos
 
-### DIRETORA DIVULGAÇÃO
-Bruna Schmidt Farias
-
-### DIRETOR SOCIAL/EVENTOS
-Vilson Ribeiro Nunes
-
-### Representante do NRCCRM junto à FEBRAC
-Eduardo Faria Finco
+**Representante do NRCCRM junto à FEBRAC**
+<br>
+Eduardo Faria Finco - (51) 98433 2035
 
 <div class="bg-horse bg-horse-bottom"></div>
 <div class="bg-brasao"></div>
