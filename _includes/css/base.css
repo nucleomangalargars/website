@@ -84,6 +84,15 @@ body {
 }
 
 /* flex module*/
+.flex-content-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.flex-item-row {
+  padding: 10px;
+}
 .flex-content  {
   width: 100%;
    display: flex;
@@ -94,6 +103,16 @@ body {
 .flex-item {
   width: 100%;
   flex-grow: 1;
+}
+
+.flex-item-22 {
+  width: 22%;
+}
+.flex-item-33 {
+  width: 33%;
+}
+.flex-item-50 {
+  width: 50%;
 }
 
 fieldset.info-box {

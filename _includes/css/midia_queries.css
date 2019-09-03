@@ -126,4 +126,9 @@
   .footer-sponsors {
     width: 100%;
   }
+  .flex-item-22,
+  .flex-item-33,
+  .flex-item-50 {
+    width: 100%;
+  }
 }
